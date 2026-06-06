@@ -12,6 +12,14 @@
 ![](https://streak-stats.demolab.com/?user=anujshukla115&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anujshukla115&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujshukla115/anujshukla115/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujshukla115/anujshukla115/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anujshukla115/anujshukla115/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
